@@ -1,0 +1,9 @@
+{
+  "users": {
+    "trialuser": {
+      "password": "1234",
+      "active": true,
+      "expiry": 1778603290727
+    }
+  }
+}
